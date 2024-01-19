@@ -6,7 +6,9 @@ I'm looking for a front-end UI/UX web development role, ideally writing code in 
 
 I'd especially love to work at a startup in a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
 
-- 🔭 I’m currently working on re-designing the front-end of @kalmansforge
+- 🔭 I’m currently working on the front-end of kalmansforge.com
+- 🌱 I’m currently learning WEBGL implementation with THREE.js and some React frameworks like @drei and @fiber
+- ⚡ Fun fact: Sometimes I walk alone in the park and meditate on a bench
 
 <!--
 **simongorozabel/simongorozabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
