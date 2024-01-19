@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Simon 👋
+
+I've enjoyed web development since I built my first HTML and CSS project, "a blog".
+I'm looking for a front-end UI/UX web development role, ideally writing code in React. I'd especially love to work at a startup in a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 <!--
 **simongorozabel/simongorozabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
