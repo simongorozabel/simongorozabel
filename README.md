@@ -1,10 +1,10 @@
-### Hi, I'm Simon 👋
+## Hi, I'm Simon 👋
 
 - 🔭 I’m currently working on the front-end UI/UX of a Venture Studio startup at kalmansforge.com
 - 🌱 I’m currently learning WEBGL implementation with THREE.js and some React frameworks like @drei and @fiber
 - ⚡ Fun fact: Sometimes I walk alone in the park and meditate on a bench
 
-## My journey
+### My journey
 
 - 💻 I've enjoyed web development since I built my first HTML and CSS project, "a blog" in 2020.
 - 🤔 I'm looking for a front-end UI/UX web development role, ideally writing code in React. 
