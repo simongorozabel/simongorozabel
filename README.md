@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning WEBGL implementation with THREE.js and some React frameworks like @drei and @fiber
 - ⚡ Fun fact: Sometimes I walk alone in the park and meditate on a bench
 
-- 💻 I've enjoyed web development since I built my first HTML and CSS project, "a blog".
+## My journey
+
+- 💻 I've enjoyed web development since I built my first HTML and CSS project, "a blog" in 2020.
 - 🤔 I'm looking for a front-end UI/UX web development role, ideally writing code in React. 
 - 👯 I'd especially love to work at a startup in a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
 
