@@ -1,14 +1,15 @@
 ## Hi, I'm Simon 👋
 
-- 🔭 I’m currently working on the front-end UI/UX of a Venture Studio startup at kalmansforge.com
-- 🌱 I’m currently learning WEBGL implementation with THREE.js and some React frameworks like @drei and @fiber
-- ⚡ Fun fact: Sometimes I walk alone in the park and meditate on a bench
+- 🔭 I’m currently working on Full-Stack Development of a Driving Application.
+- 🌱 I’m currently learning React-Native and Business Implementation.
+- ⚡ Fun fact: I love to lift weights so I can eat more peanut butter with cacao, bananas, and oatmeal.
 
 ### My journey
 
-- 💻 I've enjoyed web development since I built my first HTML and CSS project, "a blog" in 2020.
-- 🤔 I'm looking for a front-end UI/UX web development role, ideally writing code in React. 
-- 👯 I'd especially love to work at a startup in a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
+- 🎁 I've enjoyed technology since I was 12 years old playing Minecraft to automate everything in survival mode without cheat codes.
+- 💻 I've enjoyed software development since I built my first HTML and CSS project, "a blog" in 2020.
+- 🤔 I'm looking for a challenging role, ideally with a greater vision. 
+- 👯 If you're hiring, let's chat!
 
 <!--
 **simongorozabel/simongorozabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
