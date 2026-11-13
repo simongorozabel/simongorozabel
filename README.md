@@ -1,27 +1,30 @@
-## Hi, I'm Simon 👋
+## Simon. Video editor. Growth architect. 🎬
 
-- 🔭 I’m currently working on Full-Stack Development of a Driving Application.
-- 🌱 I’m currently learning React-Native and Business Implementation.
-- ⚡ Fun fact: I love to lift weights so I can eat more peanut butter with cacao, bananas, and oatmeal.
+I don't chase attention. I build content that makes attention chase you.
 
-### My journey
+- 🎞️ I edit videos for knowledge brands and infoproduct creators, the kind that stop the scroll and keep it stopped.
+- 📈 I turn organic content into a growth engine: no ad budget burned, no begging the algorithm.
+- 🧠 Developer background, so I think in systems. My workflows run like software: fast, repeatable, scalable.
+- ⚡ Fun fact: I lift weights so I can eat more peanut butter with cacao, bananas, and oatmeal. Priorities.
 
-- 🎁 I've enjoyed technology since I was 12 years old playing Minecraft to automate everything in survival mode without cheat codes.
-- 💻 I've enjoyed software development since I built my first HTML and CSS project, "a blog" in 2020.
-- 🤔 I'm looking for a challenging role, ideally with a greater vision. 
-- 👯 If you're hiring, let's chat!
+### How I operate
 
-<!--
-**simongorozabel/simongorozabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 Selective by design. I work with people who already have something worth amplifying.
+- ✂️ No fluff, no 47-slide decks. Strategy, edit, results.
+- 🔒 Limited spots. Not because it sounds cool, but because quality doesn't scale by saying yes to everyone.
 
-Here are some ideas to get you started:
+### The timeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎁 **Age 12:** automated everything in Minecraft survival mode, no cheat codes. Found the system, removed the grind. Still doing it.
+- - 🚀 **Age 18:** started my first business. Never went back to "normal."
+- 💻 **2020:** built my first HTML & CSS project, a blog. Good content plus good structure wins.
+- 🏛️ **CETI:** took part in my city's Center for Entrepreneurship, Technology & Research, where the local ecosystem gets built.
+- ⛓️ **Blockchain startup:** designed and developed alongside a former AWS engineer. The startup didn't make it. The lessons did.
+- 🏢 **2023:** Director of Marketing & Advertising at a real estate agency. Learned what actually sells, and what only looks good.
+- 🎬 **2025:** went all-in on video editing and AI-powered digital marketing, working alongside some of the biggest names in Spanish-language infoproducts.
+- 🤖 **Now:** automating the entire marketing and sales process with code and AI. Fewer manual steps, more leverage.
+
+### Contact
+
+If your content deserves better than what it's getting, you know where to find me.
+📩 [your link / email / DM]
